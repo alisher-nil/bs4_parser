@@ -32,6 +32,7 @@ A small pep entries parser based on Beautiful Soup 4 library
     pip install -r requirements.txt
     ```
 ### uv
+Requires [uv](https://docs.astral.sh/uv/) package manager.
 1. Clone the repository:
 
     ```bash
