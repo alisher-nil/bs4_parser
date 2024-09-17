@@ -10,6 +10,5 @@ dependencies = [
     "prettytable==3.10.0",
     "requests-cache==1.2.0",
     "requests==2.31.0",
-    "soupsieve==2.5",
     "tqdm==4.66.2",
 ]
