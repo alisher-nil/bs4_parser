@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/python-3.10-%233776AB?logo=python)
-![Static Badge](https://img.shields.io/badge/Beautiful%20Soup%204-v4.12.3-blue)
+![Static Badge](https://img.shields.io/badge/Beautiful%20Soup%204-v4.12.3-%233776AB)
 
 
 # bs4 parser
